@@ -18,7 +18,7 @@ The standard license for data use and reuse is **Creative Commons CC BY 4.0**.
 <img src="https://github.com/encinasquille/ProjSGA/blob/main/figure/main_interface.jpg?raw=true" width="100%" alt="Data Portal Interface" title="Data Portal Interface">
 
 
-## 📄 Referência Bibliográfica
+## 📄 Referências
 
 Quille, R. V. E., de Almeida, F. V., Ohara, M. Y., Corrêa, P. L. P., de Freitas, L. G., Alves-Souza, S. N., de Almeida, J. R., Jr., Davis, M., & Prakash, G. (2023).  
 **Architecture of a Data Portal for Publishing and Delivering Open Data for Atmospheric Measurement.**  
