@@ -28,4 +28,4 @@ Quille, R. V. E., de Almeida, F. V., Ohara, M. Y., Corrêa, P. L. P., de Freitas
 Quille, R. V. E., Pizzigatti Corrêa, P. L., Rizzo, L. V., Machicao, J., Devarakonda, R., Prakash, G., Calheiros, A. J. P., Albrecht, R. I., & Artaxo, P. (2020).  
 **Requirements of Data Portal for Atmospheric Data Measurement in the Brazilian context.**  
 *American Geophysical Union, Fall Meeting 2020*, Abstract IN045-05.  
-🔗 [https://www.agu.org/Fall-Meeting](https://www.agu.org/Fall-Meeting)
+🔗 [ADS Bibcode: 2020AGUFMIN0450005E](https://ui.adsabs.harvard.edu/abs/2020AGUFMIN045..05E/abstract)
