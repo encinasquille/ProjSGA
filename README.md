@@ -25,7 +25,7 @@ Quille, R. V. E., de Almeida, F. V., Ohara, M. Y., Corrêa, P. L. P., de Freitas
 *International Journal of Environmental Research and Public Health, 20*(7), 5374.  
 🔗 [https://doi.org/10.3390/ijerph20075374](https://doi.org/10.3390/ijerph20075374)
 
-Encinas, R. V. E., Pizzigatti Corrêa, P. L., Rizzo, L. V., Machicao, J., Devarakonda, R., Prakash, G., Calheiros, A. J. P., Albrecht, R. I., & Artaxo, P. (2020).  
+Quille, R. V. E., Pizzigatti Corrêa, P. L., Rizzo, L. V., Machicao, J., Devarakonda, R., Prakash, G., Calheiros, A. J. P., Albrecht, R. I., & Artaxo, P. (2020).  
 **Requirements of Data Portal for Atmospheric Data Measurement in the Brazilian context.**  
 *American Geophysical Union, Fall Meeting 2020*, Abstract IN045-05.  
 🔗 [https://www.agu.org/Fall-Meeting](https://www.agu.org/Fall-Meeting)
