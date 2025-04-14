@@ -1,12 +1,19 @@
 # Data Portal Project
 
 
-Environmental data portal project for management
-integrated environmental data, covering the process of quality, storage, sharing, selection and visualization of data, aided by Visual Analytics techniques and FAIR data management principles, considering state of the art from the point of view of data management
-scientific studies through data citation (DOI). The data from this project are treated as open, with the possibility of synthesis generating new data products. Creative Commons CC BY 4.0 is the open data use and reuse license standard.
+A web-based platform for the **management and integration of environmental data**, supporting the entire lifecycle: from **data quality assurance**, **storage**, and **sharing** to **selection** and **visualization** — all supported by **Visual Analytics** techniques and aligned with **FAIR data management** principles.
 
-The data to be handled by the portal involve: data
-weather, air quality, monitoring of subsoil gases, operation of remediation systems, monitoring of growth and carbon fixation by trees, soil moisture, electricity consumption, water consumption and waste generation.
+This project incorporates best practices in **scientific data management**, including **data citation via DOI**, and treats data as open, with potential for synthesis and generation of new derived data products.
 
-<img src="https://github.com/rosaencinas/ProjSGA/blob/main/figure/maininterface.png" width="100%" title="Data Portal Interface">
+The standard license for data use and reuse is **Creative Commons CC BY 4.0**.
+
+
+
+## 🔗 Access the Portal
+
+👉 [https://wds.poli.usp.br/sga](https://wds.poli.usp.br/sga)
+
+---
+
+<img src="https://github.com/rosaencinas/ProjSGA/blob/main/figure/maininterface.png" width="100%" alt="Data Portal Interface" title="Data Portal Interface">
 
