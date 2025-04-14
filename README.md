@@ -15,5 +15,6 @@ The standard license for data use and reuse is **Creative Commons CC BY 4.0**.
 
 ---
 
-<img src="[https://github.com/rosaencinas/ProjSGA/blob/main/figure/main_interface.jp](https://github.com/encinasquille/ProjSGA/blob/main/figure/main_interface.jpg)" width="100%" alt="Data Portal Interface" title="Data Portal Interface">
+<img src="https://github.com/encinasquille/ProjSGA/blob/main/figure/main_interface.jpg?raw=true" width="100%" alt="Data Portal Interface" title="Data Portal Interface">
+
 
